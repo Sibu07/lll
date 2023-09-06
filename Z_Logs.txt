@@ -1,0 +1,289 @@
+INFO | From root -> update line no: 80 | Successfully updated with latest commit.
+INFO | From root -> update line no: 81 | Repo in use: https://gitlab.com/Dawn-India/Z-Mirror
+INFO | From root -> update line no: 82 | Branch in use: upstream
+WARNING | From root -> __init__ line no: 298 | BASE_URL not provided!
+INFO | From root -> __init__ line no: 299 | Torrent select wont work.
+INFO | From root -> __init__ line no: 540 | Starting qBittorrent-Nox
+INFO | From root -> __init__ line no: 575 | Starting Aria2c
+INFO | From root -> __init__ line no: 618 | qBittorrent-Nox started!
+INFO | From root -> __init__ line no: 620 | Creating client from BOT_TOKEN
+INFO | From pyrogram.session.auth -> auth line no: 83 | Start creating a new auth key on DC2
+INFO | From pyrogram.connection.connection -> connection line no: 57 | Connecting...
+INFO | From pyrogram.connection.connection -> connection line no: 64 | Connected! Production DC2 - IPv4 - TCPAbridgedO
+INFO | From pyrogram.session.auth -> auth line no: 250 | Done auth key exchange: DhGenOk
+INFO | From pyrogram.connection.connection -> connection line no: 78 | Disconnected
+INFO | From pyrogram.connection.connection -> connection line no: 57 | Connecting...
+INFO | From pyrogram.connection.connection -> connection line no: 64 | Connected! Production DC2 - IPv4 - TCPAbridgedO
+INFO | From pyrogram.session.session -> session line no: 272 | NetworkTask started
+INFO | From pyrogram.session.internals.msg_id -> msg_id line no: 45 | Time synced: 2023-09-05 20:45:29.938307 UTC
+INFO | From pyrogram.session.session -> session line no: 132 | Session initialized: Layer 161
+INFO | From pyrogram.session.session -> session line no: 133 | Device: CPython 3.10.12 - Pyrogram 2.2.10
+INFO | From pyrogram.session.session -> session line no: 134 | System: Linux 5.15.0-1041-aws (EN)
+INFO | From pyrogram.session.session -> session line no: 149 | Session started
+INFO | From pyrogram.session.session -> session line no: 250 | PingTask started
+INFO | From pyrogram.session.session -> session line no: 269 | PingTask stopped
+INFO | From pyrogram.connection.connection -> connection line no: 78 | Disconnected
+INFO | From pyrogram.session.session -> session line no: 288 | NetworkTask stopped
+INFO | From pyrogram.session.session -> session line no: 175 | Session stopped
+INFO | From pyrogram.session.auth -> auth line no: 83 | Start creating a new auth key on DC1
+INFO | From pyrogram.connection.connection -> connection line no: 57 | Connecting...
+INFO | From pyrogram.connection.connection -> connection line no: 64 | Connected! Production DC1 - IPv4 - TCPAbridgedO
+INFO | From pyrogram.session.auth -> auth line no: 250 | Done auth key exchange: DhGenOk
+INFO | From pyrogram.connection.connection -> connection line no: 78 | Disconnected
+INFO | From pyrogram.connection.connection -> connection line no: 57 | Connecting...
+INFO | From pyrogram.connection.connection -> connection line no: 64 | Connected! Production DC1 - IPv4 - TCPAbridgedO
+INFO | From pyrogram.session.session -> session line no: 272 | NetworkTask started
+INFO | From pyrogram.session.session -> session line no: 132 | Session initialized: Layer 161
+INFO | From pyrogram.session.session -> session line no: 133 | Device: CPython 3.10.12 - Pyrogram 2.2.10
+INFO | From pyrogram.session.session -> session line no: 134 | System: Linux 5.15.0-1041-aws (EN)
+INFO | From pyrogram.session.session -> session line no: 149 | Session started
+INFO | From pyrogram.session.session -> session line no: 250 | PingTask started
+INFO | From pyrogram.dispatcher -> dispatcher line no: 154 | Started 1000 HandlerTasks
+INFO | From bot -> telegraph_helper line no: 20 | Creating Telegraph Account
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/createAccount/ "HTTP/1.1 200 OK"
+INFO | From bot -> db_handler line no: 63 | Users data has been imported from Database
+INFO | From apscheduler.scheduler -> base line no: 454 | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO | From apscheduler.scheduler -> base line no: 895 | Added job "RSS" to job store "default"
+INFO | From apscheduler.scheduler -> base line no: 181 | Scheduler started
+INFO | From root -> __init__ line no: 586 | Aria2c started!
+INFO | From bot -> __main__ line no: 384 | Congratulations, Bot Started Successfully!
+INFO | From apscheduler.executors.default -> base_py3 line no: 28 | Running job "RSS (trigger: interval[0:10:00], next run at: 2023-09-05 20:55:56 UTC)" (scheduled at 2023-09-05 20:45:56.544396+00:00)
+INFO | From apscheduler.scheduler -> base line no: 227 | Paused scheduler job processing
+INFO | From apscheduler.executors.default -> base_py3 line no: 41 | Job "RSS (trigger: interval[0:10:00], next run at: 2023-09-05 20:55:56 UTC)" executed successfully
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 58.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 638 | File ID: 1gp0eluAqVg68M2xNrWQ1DI_cL-8jb8B0
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 663 | Counting: Breaking Bad COMBINED Season 1 S01 720p 10bit BluRay x265 HEVC [Org TV-DL Hindi DD2.0 ~ 192Kbps + English AAC2.0] ESubs ~ PSA ~ Shield Ninja.mkv
+INFO | From bot -> clone line no: 164 | Checking File/Folder if already in Drive...
+INFO | From bot -> clone line no: 179 | Clone Started: Name: Breaking Bad COMBINED Season 1 S01 720p 10bit BluRay x265 HEVC [Org TV-DL Hindi DD2.0 ~ 192Kbps + English AAC2.0] ESubs ~ PSA ~ Shield Ninja.mkv - Source: https://drive.google.com/uc?id=1gp0eluAqVg68M2xNrWQ1DI_cL-8jb8B0&export=download
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 3.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 391 | File ID: 1gp0eluAqVg68M2xNrWQ1DI_cL-8jb8B0
+INFO | From bot -> clone line no: 195 | Cloning Done: Breaking Bad COMBINED Season 1 S01 720p 10bit BluRay x265 HEVC [Org TV-DL Hindi DD2.0 ~ 192Kbps + English AAC2.0] ESubs ~ PSA ~ Shield Ninja.mkv
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading Breaking Bad COMBINED Season 1 S01 720p 10bit BluRay x265 HEVC [Org TV-DL Hindi DD2.0 ~ 192Kbps + English AAC2.0] ESubs ~ PSA ~ Shield Ninja.mkv
+INFO | From bot -> eval line no: 33 | IN: /clearlocals (user=1881720028, chat=1881720028)
+INFO | From bot -> eval line no: 43 | OUT: 'Locals Cleared.'
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 5.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 638 | File ID: 1iIRRrKaLWh_oqBRWFbfMfLLfnvxUcbq5
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 663 | Counting: MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv
+ERROR | From bot -> message_utils line no: 84 | 'NoneType' object has no attribute 'delete'
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 74.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 638 | File ID: 1iIRRrKaLWh_oqBRWFbfMfLLfnvxUcbq5
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 663 | Counting: MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv
+INFO | From bot -> clone line no: 164 | Checking File/Folder if already in Drive...
+INFO | From bot -> clone line no: 179 | Clone Started: Name: MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv - Source: https://drive.google.com/uc?id=1iIRRrKaLWh_oqBRWFbfMfLLfnvxUcbq5&export=download
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 93.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 391 | File ID: 1iIRRrKaLWh_oqBRWFbfMfLLfnvxUcbq5
+INFO | From bot -> clone line no: 195 | Cloning Done: MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> mirror_leech line no: 260 | https://drive.google.com/uc?id=1iIRRrKaLWh_oqBRWFbfMfLLfnvxUcbq5&export=download
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> mirror_leech line no: 260 | https://drive.google.com/uc?id=1iIRRrKaLWh_oqBRWFbfMfLLfnvxUcbq5&export=download
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 91.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 638 | File ID: 1iIRRrKaLWh_oqBRWFbfMfLLfnvxUcbq5
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 663 | Counting: MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv
+INFO | From bot -> task_manager line no: 20 | Checking File/Folder if already in Drive: MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 56.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 73.json service account
+INFO | From bot -> gd_download line no: 65 | Download from GDrive: MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv
+INFO | From bot -> tasks_listener line no: 159 | Download completed: MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv
+INFO | From bot -> tasks_listener line no: 289 | Zip: orig_path: /usr/src/app/downloads/1773/MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv, zip_path: /usr/src/app/downloads/1773/MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv.zip
+INFO | From bot -> fs_utils line no: 41 | Cleaning Target: /usr/src/app/downloads/1773/MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv
+INFO | From bot -> tasks_listener line no: 376 | Upload Name: MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv.zip
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 84.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 205 | Uploading: /usr/src/app/downloads/1773/MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv.zip
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 218 | Uploaded To G-Drive: /usr/src/app/downloads/1773/MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv.zip
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading MoviesRush.nl_Captain.Underpants.The.First.Epic.Movie.2017.720p.BluRay.Hindi.English.ESubs.mkv.zip
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/1773
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/1773
+INFO | From apscheduler.scheduler -> base line no: 895 | Added job "RSS" to job store "default"
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> mirror_leech line no: 260 | https://d.terabox.com/file/6c140a73261a32d0feba67f0a7d46dba?fid=4398091201238-250528-773519487357491&dstime=1693979617&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-E6a676eYWpEOkptIJsCcF%2FHkmAw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=639122280445043&dp-callid=0&r=964051635&sh=1
+INFO | From bot -> aria2_listener line no: 39 | onDownloadStarted: 6c140a73261a32d0feba67f0a7d46dba?fid=4398091201238-250528-773519487357491&dstime=1693979617&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-E6a676eYWpEOkptIJsCcF%2FHkmAw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=639122280445043&dp-callid=0&r=964051635&sh=1 - Gid: 584c1948377c30c3
+INFO | From bot -> aria2_download line no: 64 | Aria2Download started: 6c140a73261a32d0feba67f0a7d46dba?fid=4398091201238-250528-773519487357491&dstime=1693979617&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-E6a676eYWpEOkptIJsCcF%2FHkmAw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=639122280445043&dp-callid=0&r=964051635&sh=1. Gid: 584c1948377c30c3
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> mirror_leech line no: 260 | https://d.terabox.com/file/4c130f021a27623b7dcc1ef414689ced?fid=4398091201238-250528-127574730977183&dstime=1693979621&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-X%2FufG8%2FPgD%2BYw%2F3oAdhA4iJxZGI%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=640079565148106&dp-callid=0&r=869712504&sh=1
+INFO | From bot -> aria2_listener line no: 39 | onDownloadStarted: 4c130f021a27623b7dcc1ef414689ced?fid=4398091201238-250528-127574730977183&dstime=1693979621&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-X%2FufG8%2FPgD%2BYw%2F3oAdhA4iJxZGI%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=640079565148106&dp-callid=0&r=869712504&sh=1 - Gid: cec3730a533e6743
+INFO | From bot -> aria2_download line no: 64 | Aria2Download started: 4c130f021a27623b7dcc1ef414689ced?fid=4398091201238-250528-127574730977183&dstime=1693979621&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-X%2FufG8%2FPgD%2BYw%2F3oAdhA4iJxZGI%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=640079565148106&dp-callid=0&r=869712504&sh=1. Gid: cec3730a533e6743
+INFO | From bot -> aria2_listener line no: 128 | onDownloadComplete: 2023-08-26-13-41-21(8).mp4 - Gid: 584c1948377c30c3
+INFO | From bot -> tasks_listener line no: 159 | Download completed: 2023-08-26-13-41-21(8).mp4
+INFO | From bot -> tasks_listener line no: 367 | Leech Name: 2023-08-26-13-41-21(8).mp4
+INFO | From bot.helper.mirror_utils.upload_utils.pyrogramEngine -> pyrogramEngine line no: 282 | Leech Completed: 2023-08-26-13-41-21(8).mp4
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading 2023-08-26-13-41-21(8).mp4
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/1782
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/1782
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> aria2_listener line no: 128 | onDownloadComplete: 174984.mp4 - Gid: cec3730a533e6743
+INFO | From bot -> tasks_listener line no: 159 | Download completed: 174984.mp4
+INFO | From bot -> tasks_listener line no: 367 | Leech Name: 174984.mp4
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> mirror_leech line no: 260 | https://d.terabox.com/file/6c140a73261a32d0feba67f0a7d46dba?fid=4398091201238-250528-773519487357491&dstime=1693979617&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-E6a676eYWpEOkptIJsCcF%2FHkmAw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=639122280445043&dp-callid=0&r=964051635&sh=1
+INFO | From bot.helper.mirror_utils.upload_utils.pyrogramEngine -> pyrogramEngine line no: 282 | Leech Completed: 174984.mp4
+INFO | From bot -> aria2_listener line no: 39 | onDownloadStarted: 6c140a73261a32d0feba67f0a7d46dba?fid=4398091201238-250528-773519487357491&dstime=1693979617&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-E6a676eYWpEOkptIJsCcF%2FHkmAw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=639122280445043&dp-callid=0&r=964051635&sh=1 - Gid: 7b9a3f3426e74f66
+INFO | From bot -> aria2_download line no: 64 | Aria2Download started: 6c140a73261a32d0feba67f0a7d46dba?fid=4398091201238-250528-773519487357491&dstime=1693979617&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-E6a676eYWpEOkptIJsCcF%2FHkmAw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=639122280445043&dp-callid=0&r=964051635&sh=1. Gid: 7b9a3f3426e74f66
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading 174984.mp4
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/1784
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/1784
+INFO | From bot -> task_manager line no: 20 | Checking File/Folder if already in Drive: 2023-08-26-13-41-21(8).mp4
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 17.json service account
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> mirror_leech line no: 260 | https://d.terabox.com/file/4c130f021a27623b7dcc1ef414689ced?fid=4398091201238-250528-127574730977183&dstime=1693979621&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-X%2FufG8%2FPgD%2BYw%2F3oAdhA4iJxZGI%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=640079565148106&dp-callid=0&r=869712504&sh=1
+INFO | From bot -> aria2_listener line no: 39 | onDownloadStarted: 4c130f021a27623b7dcc1ef414689ced?fid=4398091201238-250528-127574730977183&dstime=1693979621&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-X%2FufG8%2FPgD%2BYw%2F3oAdhA4iJxZGI%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=640079565148106&dp-callid=0&r=869712504&sh=1 - Gid: 08c092e6e9d59cc1
+INFO | From bot -> aria2_download line no: 64 | Aria2Download started: 4c130f021a27623b7dcc1ef414689ced?fid=4398091201238-250528-127574730977183&dstime=1693979621&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-X%2FufG8%2FPgD%2BYw%2F3oAdhA4iJxZGI%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=640079565148106&dp-callid=0&r=869712504&sh=1. Gid: 08c092e6e9d59cc1
+INFO | From bot -> task_manager line no: 20 | Checking File/Folder if already in Drive: 174984.mp4
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 6.json service account
+INFO | From bot -> aria2_listener line no: 128 | onDownloadComplete: 2023-08-26-13-41-21(8).mp4 - Gid: 7b9a3f3426e74f66
+INFO | From bot -> tasks_listener line no: 159 | Download completed: 2023-08-26-13-41-21(8).mp4
+INFO | From bot -> tasks_listener line no: 376 | Upload Name: 2023-08-26-13-41-21(8).mp4
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 32.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 205 | Uploading: /usr/src/app/downloads/1790/2023-08-26-13-41-21(8).mp4
+INFO | From bot -> aria2_listener line no: 128 | onDownloadComplete: 174984.mp4 - Gid: 08c092e6e9d59cc1
+INFO | From bot -> tasks_listener line no: 159 | Download completed: 174984.mp4
+INFO | From bot -> tasks_listener line no: 376 | Upload Name: 174984.mp4
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 34.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 205 | Uploading: /usr/src/app/downloads/1793/174984.mp4
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 218 | Uploaded To G-Drive: /usr/src/app/downloads/1790/2023-08-26-13-41-21(8).mp4
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading 2023-08-26-13-41-21(8).mp4
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 218 | Uploaded To G-Drive: /usr/src/app/downloads/1793/174984.mp4
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/1790
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/1790
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading 174984.mp4
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/1793
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/1793
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> ytdlp line no: 504 | Downloading with YT-DLP: https://youtu.be/9HUPkYCUsV8?si=QDnt8frdXzQ-JDGs added by : 1881720028
+INFO | From bot -> task_manager line no: 20 | Checking File/Folder if already in Drive: Thara Bhai Joginder in Roadies! ( WORST ROADIES EVER) 1080p60fps 2622
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 32.json service account
+INFO | From bot.helper.mirror_utils.download_utils.yt_dlp_download -> yt_dlp_download line no: 281 | Download with YT_DLP: Thara Bhai Joginder in Roadies! ( WORST ROADIES EVER) 1080p60fps 2622
+INFO | From bot.helper.mirror_utils.download_utils.yt_dlp_download -> yt_dlp_download line no: 27 | [Merger] Merging formats into "/usr/src/app/downloads/1804/Thara Bhai Joginder in Roadies! ( WORST ROADIES EVER) 1080p60fps 2622.webm"
+INFO | From bot -> tasks_listener line no: 159 | Download completed: Thara Bhai Joginder in Roadies! ( WORST ROADIES EVER) 1080p60fps 2622.webm
+INFO | From bot -> tasks_listener line no: 376 | Upload Name: Thara Bhai Joginder in Roadies! ( WORST ROADIES EVER) 1080p60fps 2622.webm
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 44.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 205 | Uploading: /usr/src/app/downloads/1804/Thara Bhai Joginder in Roadies! ( WORST ROADIES EVER) 1080p60fps 2622.webm
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 218 | Uploaded To G-Drive: /usr/src/app/downloads/1804/Thara Bhai Joginder in Roadies! ( WORST ROADIES EVER) 1080p60fps 2622.webm
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading Thara Bhai Joginder in Roadies! ( WORST ROADIES EVER) 1080p60fps 2622.webm
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/1804
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/1804
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> mirror_leech line no: 260 | https://d.terabox.com/file/6cecd49c383f8398158d00cafb726d90?fid=4399987127408-250528-891847906375597&dstime=1693980405&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-KFa415QJofBPArJVwypuzgZ12C4%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=850569065895348&dp-callid=0&r=886296856&sh=1
+INFO | From bot -> aria2_listener line no: 39 | onDownloadStarted: 6cecd49c383f8398158d00cafb726d90?fid=4399987127408-250528-891847906375597&dstime=1693980405&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-KFa415QJofBPArJVwypuzgZ12C4%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=850569065895348&dp-callid=0&r=886296856&sh=1 - Gid: 94c8fbfcd88cdf69
+INFO | From bot -> aria2_download line no: 64 | Aria2Download started: 6cecd49c383f8398158d00cafb726d90?fid=4399987127408-250528-891847906375597&dstime=1693980405&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-KFa415QJofBPArJVwypuzgZ12C4%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=850569065895348&dp-callid=0&r=886296856&sh=1. Gid: 94c8fbfcd88cdf69
+INFO | From bot -> aria2_listener line no: 128 | onDownloadComplete: VID_20230116_104110_508(1).mp4 - Gid: 94c8fbfcd88cdf69
+INFO | From bot -> tasks_listener line no: 159 | Download completed: VID_20230116_104110_508(1).mp4
+INFO | From bot -> tasks_listener line no: 367 | Leech Name: VID_20230116_104110_508(1).mp4
+INFO | From bot.helper.mirror_utils.upload_utils.pyrogramEngine -> pyrogramEngine line no: 282 | Leech Completed: VID_20230116_104110_508(1).mp4
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading VID_20230116_104110_508(1).mp4
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/33
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/33
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> task_manager line no: 20 | Checking File/Folder if already in Drive: VID_20230116_104110_508(1).mp4
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 99.json service account
+INFO | From bot -> telegram_download line no: 50 | Download from Telegram: VID_20230116_104110_508(1).mp4
+INFO | From bot -> tasks_listener line no: 159 | Download completed: VID_20230116_104110_508(1).mp4
+INFO | From bot -> tasks_listener line no: 376 | Upload Name: VID_20230116_104110_508(1).mp4
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 15.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 205 | Uploading: /usr/src/app/downloads/802/VID_20230116_104110_508(1).mp4
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 218 | Uploaded To G-Drive: /usr/src/app/downloads/802/VID_20230116_104110_508(1).mp4
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading VID_20230116_104110_508(1).mp4
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/802
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/802
+INFO | From bot -> gd_search line no: 34 | Searching for: sex
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 96.json service account
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/createPage/ "HTTP/1.1 200 OK"
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+INFO | From bot -> torrent_search line no: 104 | PLUGINS Searching: Demon Slayer from piratebay
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/createPage/ "HTTP/1.1 200 OK"
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/createPage/ "HTTP/1.1 200 OK"
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/createPage/ "HTTP/1.1 200 OK"
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/editPage/Z-Torrent-Search-09-06-21 "HTTP/1.1 200 OK"
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/editPage/Z-Torrent-Search-09-06-22 "HTTP/1.1 200 OK"
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/editPage/Z-Torrent-Search-09-06-23 "HTTP/1.1 200 OK"
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> mirror_leech line no: 260 | magnet:?xt=urn:btih:8E0E87B4D6F4ED9AB662D6D2E16A18776FE051B9&dn=Demon.Slayer.Mugen.Train.2021.1080p.WEB-DL.DD5.1.H.264-EVO%5BTGx%5D&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fwww.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce
+INFO | From bot -> qbit_download line no: 68 | QbitDownload started: Demon.Slayer.Mugen.Train.2021.1080p.WEB-DL.DD5.1.H.264-EVO[TGx] - Hash: 8e0e87b4d6f4ed9ab662d6d2e16a18776fe051b9
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+INFO | From bot -> tasks_listener line no: 159 | Download completed: Demon.Slayer.Mugen.Train.2021.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]
+INFO | From bot -> tasks_listener line no: 320 | Splitting: Demon.Slayer.Mugen.Train.2021.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]
+INFO | From bot -> tasks_listener line no: 367 | Leech Name: Demon.Slayer.Mugen.Train.2021.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> mirror_leech line no: 260 | https://drive.google.com/drive/folders/1SkCOcAS0Kqvuz-MJkkjbFr1GSue6Ms6m
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 68.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 638 | File ID: 1SkCOcAS0Kqvuz-MJkkjbFr1GSue6Ms6m
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 663 | Counting: Placement material
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 16.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 638 | File ID: 1SkCOcAS0Kqvuz-MJkkjbFr1GSue6Ms6m
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 663 | Counting: Placement material
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 62.json service account
+INFO | From bot -> gd_download line no: 65 | Download from GDrive: Placement material
+INFO | From bot -> clone line no: 164 | Checking File/Folder if already in Drive...
+INFO | From bot -> clone line no: 179 | Clone Started: Name: Placement material - Source: https://drive.google.com/drive/folders/1SkCOcAS0Kqvuz-MJkkjbFr1GSue6Ms6m
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 90.json service account
+ERROR | From asyncio -> __main__ line no: 388 | Task exception was never retrieved
+future: <Task finished name='Task-89400' coro=<clone() done, defined at /usr/src/app/bot/modules/clone.py:202> exception=NameError("name 'SystemRandom' is not defined")>
+Traceback (most recent call last):
+  File "/usr/src/app/bot/modules/clone.py", line 322, in clone
+    await gdcloneNode(message, link, listener)
+  File "/usr/src/app/bot/modules/clone.py", line 186, in gdcloneNode
+    gid = ''.join(SystemRandom().choices(ascii_letters + digits, k=12))
+NameError: name 'SystemRandom' is not defined
+INFO | From bot.helper.mirror_utils.upload_utils.pyrogramEngine -> pyrogramEngine line no: 282 | Leech Completed: Demon.Slayer.Mugen.Train.2021.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading Demon.Slayer.Mugen.Train.2021.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/45
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/45
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> telegram_download line no: 50 | Download from Telegram: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1.rar
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+INFO | From bot -> telegram_download line no: 144 | Cancelling download on user request: name: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1.rar id: AgADzg8AAt4DYFI
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> telegram_download line no: 50 | Download from Telegram: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1.rar
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/68
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/68
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 815 | Cancelling Download: Placement material
+INFO | From bot -> tasks_listener line no: 159 | Download completed: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1.rar
+INFO | From bot -> tasks_listener line no: 192 | Extracting: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1.rar
+INFO | From bot -> tasks_listener line no: 244 | Extracted Path: /usr/src/app/downloads/76/ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1
+INFO | From bot -> tasks_listener line no: 367 | Leech Name: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1
+ERROR | From bot.helper.mirror_utils.upload_utils.pyrogramEngine -> pyrogramEngine line no: 319 | Error while sending to user dump Flood: A wait of {value} seconds is required
+WARNING | From bot.helper.mirror_utils.upload_utils.pyrogramEngine -> pyrogramEngine line no: 442 | Telegram says: [420 FLOOD_WAIT_X] - A wait of 24 seconds is required (caused by "messages.SendMedia")
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/814
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/814
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot.helper.mirror_utils.upload_utils.pyrogramEngine -> pyrogramEngine line no: 282 | Leech Completed: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/76
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/76
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> task_manager line no: 20 | Checking File/Folder if already in Drive: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1.rar
+INFO | From bot -> telegram_download line no: 50 | Download from Telegram: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1.rar
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+ERROR | From bot -> message_utils line no: 82 | Forbidden: You don't have rights to delete messages in this chat, most likely because you are not the author of them
+INFO | From bot -> tasks_listener line no: 159 | Download completed: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1.rar
+INFO | From bot -> tasks_listener line no: 192 | Extracting: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1.rar
+INFO | From bot -> tasks_listener line no: 244 | Extracted Path: /usr/src/app/downloads/1810/ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1
+INFO | From bot -> tasks_listener line no: 376 | Upload Name: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 44.json service account
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 205 | Uploading: /usr/src/app/downloads/1810/ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 292 | Created G-Drive Folder:
+Name: ChatGPT_and_AI_YouTube_Mastery_3_Courses_in_1
+ID: 1yBpbKVHylMIo9N_C8OS5TisWgrJ1nPb_
