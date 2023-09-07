@@ -1,0 +1,70 @@
+INFO | From root -> update line no: 80 | Successfully updated with latest commit.
+INFO | From root -> update line no: 81 | Repo in use: https://gitlab.com/Dawn-India/Z-Mirror
+INFO | From root -> update line no: 82 | Branch in use: upstream
+WARNING | From root -> __init__ line no: 298 | BASE_URL not provided!
+INFO | From root -> __init__ line no: 299 | Torrent select wont work.
+INFO | From root -> __init__ line no: 540 | Starting qBittorrent-Nox
+INFO | From root -> __init__ line no: 575 | Starting Aria2c
+INFO | From root -> __init__ line no: 618 | qBittorrent-Nox started!
+INFO | From root -> __init__ line no: 620 | Creating client from BOT_TOKEN
+INFO | From pyrogram.session.auth -> auth line no: 83 | Start creating a new auth key on DC2
+INFO | From pyrogram.connection.connection -> connection line no: 57 | Connecting...
+INFO | From pyrogram.connection.connection -> connection line no: 64 | Connected! Production DC2 - IPv4 - TCPAbridgedO
+INFO | From pyrogram.session.auth -> auth line no: 250 | Done auth key exchange: DhGenOk
+INFO | From pyrogram.connection.connection -> connection line no: 78 | Disconnected
+INFO | From pyrogram.connection.connection -> connection line no: 57 | Connecting...
+INFO | From pyrogram.connection.connection -> connection line no: 64 | Connected! Production DC2 - IPv4 - TCPAbridgedO
+INFO | From pyrogram.session.session -> session line no: 272 | NetworkTask started
+INFO | From pyrogram.session.internals.msg_id -> msg_id line no: 45 | Time synced: 2023-09-07 18:01:46.989077 UTC
+INFO | From pyrogram.session.session -> session line no: 132 | Session initialized: Layer 161
+INFO | From pyrogram.session.session -> session line no: 133 | Device: CPython 3.10.12 - Pyrogram 2.2.10
+INFO | From pyrogram.session.session -> session line no: 134 | System: Linux 4.4.0-1104-aws (EN)
+INFO | From pyrogram.session.session -> session line no: 149 | Session started
+INFO | From pyrogram.session.session -> session line no: 250 | PingTask started
+INFO | From pyrogram.session.session -> session line no: 269 | PingTask stopped
+INFO | From pyrogram.connection.connection -> connection line no: 78 | Disconnected
+INFO | From pyrogram.session.session -> session line no: 288 | NetworkTask stopped
+INFO | From pyrogram.session.session -> session line no: 175 | Session stopped
+INFO | From pyrogram.session.auth -> auth line no: 83 | Start creating a new auth key on DC1
+INFO | From pyrogram.connection.connection -> connection line no: 57 | Connecting...
+INFO | From pyrogram.connection.connection -> connection line no: 64 | Connected! Production DC1 - IPv4 - TCPAbridgedO
+INFO | From pyrogram.session.auth -> auth line no: 250 | Done auth key exchange: DhGenOk
+INFO | From pyrogram.connection.connection -> connection line no: 78 | Disconnected
+INFO | From pyrogram.connection.connection -> connection line no: 57 | Connecting...
+INFO | From pyrogram.connection.connection -> connection line no: 64 | Connected! Production DC1 - IPv4 - TCPAbridgedO
+INFO | From pyrogram.session.session -> session line no: 272 | NetworkTask started
+INFO | From pyrogram.session.session -> session line no: 132 | Session initialized: Layer 161
+INFO | From pyrogram.session.session -> session line no: 133 | Device: CPython 3.10.12 - Pyrogram 2.2.10
+INFO | From pyrogram.session.session -> session line no: 134 | System: Linux 4.4.0-1104-aws (EN)
+INFO | From pyrogram.session.session -> session line no: 149 | Session started
+INFO | From pyrogram.session.session -> session line no: 250 | PingTask started
+INFO | From pyrogram.dispatcher -> dispatcher line no: 154 | Started 1000 HandlerTasks
+INFO | From bot -> telegraph_helper line no: 20 | Creating Telegraph Account
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/createAccount/ "HTTP/1.1 200 OK"
+INFO | From bot -> db_handler line no: 63 | Users data has been imported from Database
+INFO | From apscheduler.scheduler -> base line no: 454 | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO | From apscheduler.scheduler -> base line no: 895 | Added job "RSS" to job store "default"
+INFO | From apscheduler.scheduler -> base line no: 181 | Scheduler started
+INFO | From root -> __init__ line no: 586 | Aria2c started!
+INFO | From bot -> __main__ line no: 384 | Congratulations, Bot Started Successfully!
+INFO | From apscheduler.executors.default -> base_py3 line no: 28 | Running job "RSS (trigger: interval[0:00:10], next run at: 2023-09-07 18:02:23 UTC)" (scheduled at 2023-09-07 18:02:13.001725+00:00)
+INFO | From apscheduler.scheduler -> base line no: 227 | Paused scheduler job processing
+INFO | From apscheduler.executors.default -> base_py3 line no: 41 | Job "RSS (trigger: interval[0:00:10], next run at: 2023-09-07 18:02:23 UTC)" executed successfully
+INFO | From bot -> gd_search line no: 34 | Searching for: zoro
+INFO | From bot.helper.mirror_utils.upload_utils.gdriveTools -> gdriveTools line no: 80 | Authorizing with 7.json service account
+INFO | From bot -> torrent_search line no: 104 | PLUGINS Searching: Ben 10 from thepiratebay
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/createPage/ "HTTP/1.1 200 OK"
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/createPage/ "HTTP/1.1 200 OK"
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/createPage/ "HTTP/1.1 200 OK"
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/editPage/Z-Torrent-Search-09-07-76 "HTTP/1.1 200 OK"
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/editPage/Z-Torrent-Search-09-07-77 "HTTP/1.1 200 OK"
+INFO | From httpx -> _client line no: 1729 | HTTP Request: POST https://api.graph.org/editPage/Z-Torrent-Search-09-07-78 "HTTP/1.1 200 OK"
+ERROR | From bot -> message_utils line no: 249 | Bad Request: The channel parameter is invalid
+INFO | From bot -> mirror_leech line no: 260 | magnet:?xt=urn:btih:FE0902401A21A3CAC6AF3CD93963D5C7FD0CB601&dn=Ben%2010%20Alien%20Force%202008%20Season%201%20Complete%20Web%20720p%20x264%20%5Bi_c%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce
+INFO | From bot -> qbit_download line no: 68 | QbitDownload started: Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c] - Hash: fe0902401a21a3cac6af3cd93963d5c7fd0cb601
+INFO | From bot -> tasks_listener line no: 159 | Download completed: Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+INFO | From bot -> tasks_listener line no: 367 | Leech Name: Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+INFO | From bot.helper.mirror_utils.upload_utils.pyrogramEngine -> pyrogramEngine line no: 282 | Leech Completed: Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+INFO | From bot -> tasks_listener line no: 398 | Done Uploading Ben 10 Alien Force 2008 Season 1 Complete Web 720p x264 [i_c]
+INFO | From bot -> fs_utils line no: 56 | Cleaning Download: /usr/src/app/downloads/1092
+INFO | From bot -> fs_utils line no: 59 | Done cleaning: /usr/src/app/downloads/1092
